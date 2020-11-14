@@ -1,5 +1,6 @@
 {
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
+    "workbench.colorTheme": "Default Dark+",
     "_terminal.integrated.shell.linux": "/usr/bin/zsh"
 }
